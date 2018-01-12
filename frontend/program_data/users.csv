@@ -1,0 +1,7 @@
+name,surname,login,password,role,email,extended_role
+"Administrator","Administrator","admin","admin","","",""
+"User1","1User","user1","user1user1","ROLE_ADMIN","User1@dtwch.com",""
+"User2","2User","user2","user2user2","ROLE_CURATOR","User2@dtwch.com","ROLE_ANALYST"
+"User3","3User","user3","user3user3","ROLE_ANALYST","User3@dtwch.com",""
+"User4","4User","user4","user4user4","ROLE_ANALYST","User4@dtwch.com",""
+"User5","5User","user5","user5user5","ROLE_CONSUMER","User5@dtwch.com",""
